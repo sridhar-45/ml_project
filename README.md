@@ -39,6 +39,12 @@ This project predicts student scores in Math, Reading, and Writing using a machi
 - Users can input student info to predict expected scores
 - Included visualization dashboards for insights
 
+## 📸 Frontend page
+
+![App Screenshot](stramlit_home.png)
+# 🧠 Student Performance Prediction
+
+This Streamlit app predicts student math scores based on various features like reading score, writing score, gender, etc.
 ---
 
 ## 🚀 How to Run
